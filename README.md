@@ -26,7 +26,6 @@ Tic Tac Toe game/
 ├── index.html
 ├── style.css
 ├── app.js
-└── click (2).mp3
 ```
 
 ## ▶️ How to Run
